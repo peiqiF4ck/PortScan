@@ -19,7 +19,7 @@ Scan.exe -ip 192.168.1.1</br>
 Scan.exe -ip ip.txt -port port.txt</br>
 端口扫描
 
-![端口扫描动态测试截图](https://cdn.jsdelivr.net/gh/peiqiF4ck/mybologimg/img/202505311630321.gif)
+![端口扫描动态测试截图](https://raw.githubusercontent.com/peiqiF4ck/PortScan/refs/heads/main/%E8%BD%AF%E4%BB%B6%E5%8A%A8%E6%80%81%E6%89%AB%E6%8F%8F%E6%88%AA%E5%9B%BE.gif)
 
 视频教程</br>
 https://www.youtube.com/watch?v=W3aJ4n5u0jg</br>

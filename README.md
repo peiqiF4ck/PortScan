@@ -17,7 +17,7 @@ Scan.exe -ip 192.168.1.1 -port 80  -timeout 9000</br>
 Scan.exe -ip 192.168.1.1 -port 80  -type ping</br>
 Scan.exe -ip 192.168.1.1</br>
 Scan.exe -ip ip.txt -port port.txt</br>
-![端口扫描动态测试截图]((https://cdn.jsdelivr.net/gh/peiqiF4ck/mybologimg/img/202505311630321.gif)
+![端口扫描动态测试截图](https://cdn.jsdelivr.net/gh/peiqiF4ck/mybologimg/img/202505311630321.gif)
 
 视频教程</br>
 https://www.youtube.com/watch?v=W3aJ4n5u0jg</br>

@@ -1,5 +1,7 @@
 # PortScan
 端口扫描工具后续将集成到webframeworktools工具里面这里先单独开一个项目吧</br>
+软件截图:
+![端口扫描动态测试截图](https://raw.githubusercontent.com/peiqiF4ck/PortScan/refs/heads/main/%E8%BD%AF%E4%BB%B6%E9%A6%96%E9%A1%B5%E6%88%AA%E5%9B%BE.png)
 端口扫描</br>
 用法: Scan.exe -ip <IP|ip.txt> -port <Port|port.txt> [-thread <Threads>] [-timeout <Timeout>] [-banner <yes|no>] [-type <ping|tcp>] [-export <Port>]</br>
 Author:peiqiF4ck  https://peiqif4ck.github.io/</br>
@@ -18,7 +20,6 @@ Scan.exe -ip 192.168.1.1 -port 80  -type ping</br>
 Scan.exe -ip 192.168.1.1</br>
 Scan.exe -ip ip.txt -port port.txt</br>
 端口扫描
-
 ![端口扫描动态测试截图](https://raw.githubusercontent.com/peiqiF4ck/PortScan/refs/heads/main/%E8%BD%AF%E4%BB%B6%E5%8A%A8%E6%80%81%E6%89%AB%E6%8F%8F%E6%88%AA%E5%9B%BE.gif)
 
 视频教程</br>
